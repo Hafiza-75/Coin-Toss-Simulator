@@ -1,0 +1,7 @@
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\bin\Debug\Coin Toss Simulator.exe.config
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\bin\Debug\Coin Toss Simulator.exe
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\bin\Debug\Coin Toss Simulator.pdb
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\obj\Debug\Coin Toss Simulator.csproj.AssemblyReference.cache
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\obj\Debug\Coin Toss Simulator.csproj.CoreCompileInputs.cache
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\obj\Debug\Coin Toss Simulator.exe
+C:\Users\786\Documents\AMAFHH\vu\Coin Toss Simulator\Coin Toss Simulator\obj\Debug\Coin Toss Simulator.pdb
